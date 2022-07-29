@@ -1,0 +1,12 @@
+C:\Development\Street\EFDataAcces\bin\Debug\net6.0\EFDataAcces.deps.json
+C:\Development\Street\EFDataAcces\bin\Debug\net6.0\EFDataAcces.dll
+C:\Development\Street\EFDataAcces\bin\Debug\net6.0\EFDataAcces.pdb
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\EFDataAcces.csproj.AssemblyReference.cache
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\EFDataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\EFDataAcces.AssemblyInfoInputs.cache
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\EFDataAcces.AssemblyInfo.cs
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\EFDataAcces.csproj.CoreCompileInputs.cache
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\EFDataAcces.dll
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\refint\EFDataAcces.dll
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\EFDataAcces.pdb
+C:\Development\Street\EFDataAcces\obj\Debug\net6.0\ref\EFDataAcces.dll
